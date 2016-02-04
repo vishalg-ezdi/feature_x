@@ -17,6 +17,8 @@ public class Test {
 		codeMap.put("A01.03", "Abdominal  aortic <AND> aneurysm");
 	codeMap.put("A01.02", "Typhoid fever<AND>heart involvement7787");
 		codeMap.put("A01.03", "Abdominal  aortic <AND> aneurysm");
+codeMap.put("A01.02", "Typhoid fever<AND>heart involvement7787");
+		codeMap.put("A01.03", "Abdominal  aortic <AND> aneurysm");
 
 		String query = "Abdominal  aortic <AND> aneurysm";
 
